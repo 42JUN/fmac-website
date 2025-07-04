@@ -151,10 +151,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - 📧 Email: contact through the website forms
-- � Issues: [GitHub Issues](https://github.com/yourusername/fmac-website/issues)
+- � Issues: [GitHub Issues](https://github.com/42JUN/fmac-website/issues)
 
 ---
 
-**Made with ❤️ by the Film Making Club, BITS Goa**
+**Made with ❤️ by the Film Making Club, BITS Goa** 
 
 *Creating stories that matter, one frame at a time*
